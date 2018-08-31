@@ -11,11 +11,11 @@ list_items:
   link: "/why/"
   description: North Shore Elementary has a "B" school grade. Find out what this means,
     and how the school continues to improve learning for all students.
-- title: Unique Programs
+- title: Unique Enrichment Programs
   image: "/images/user/garden2.jpg"
   link: "/nse/"
-  description: Gardening, meditation and morning assembly are just a few of the programs
-    that make North Shore unique and well rounded.
+  description: Gardening, Morning Meditation and Monthly School-Wide Assembly are
+    just a few of the programs that make North Shore unique and well rounded.
 - title: Exceptional Students
   image: "/images/user/healthylunch.jpg"
   link: "/nse/"
