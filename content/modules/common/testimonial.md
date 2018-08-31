@@ -15,7 +15,7 @@ list_items:
     proud of the strides NSE has made toward inclusiveness and greater comprehensive
     educational opportunities. We are excited about North Shore’s continued service
     and success, and are proud to be part of it
-  image: "/images/Leon Family.png"
+  image: "/images/user/Leon Family.png"
 - name: Jon Kile
   role: Dad to Kindergartener and 3rd Grader
   body: "\"Our son James entered North Shore in first grade and we couldn't be more
@@ -26,7 +26,7 @@ list_items:
     the gifted and music programs were a major factor in choosing our neighborhood
     school. We look forward to watching James and his younger sister Anna grow at
     North Shore.”"
-  image: "/images/Parent North Shore.jpg"
+  image: "/images/user/Parent North Shore.jpg"
 
 ---
 This is a testimonial module.
