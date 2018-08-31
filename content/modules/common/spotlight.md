@@ -19,8 +19,7 @@ list_items:
 - title: Exceptional Student Education (ESE)
   image: "/images/user/healthylunch.jpg"
   link: "/nse/"
-  description: Learn about the robust ESE programming at North Shore as both ASD and
-    Gifted programming are experienced daily to challenge all students and meet all
-    educational needs at North Shore Elementary.
+  description: The robust ESE programming at North Shore including ASD and Gifted
+    programming challenges all students and meets all educational needs.
 
 ---
