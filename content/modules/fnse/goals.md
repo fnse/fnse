@@ -15,8 +15,9 @@ list_items:
     support in each of these areas when possible.
 - title: Fundraising
   class: icon-Piggy
-  description: Identify and fund projects which encourage education and facilities
-    to be both functional and inspiring.
+  description: FNSE supports the school to identify and fund projects which encourage
+    the education and facilities to simultaneously meet student needs and inspire
+    a love of learning.
 - title: Outreach
   class: icon-megaphone-1
   description: Engage with local businesses, elected officials, and individuals regarding
