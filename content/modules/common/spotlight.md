@@ -9,14 +9,13 @@ list_items:
 - title: School Grade
   image: "/images/user/afterschool.jpg"
   link: "/why/"
-  description: North Shore Elementary has a "B" school grade. Find out what this means,
+  description: North Shore Elementary has a "B" school grade. Find out what this means
     and how the school continues to improve learning for all students.
 - title: Unique Enrichment Programs
   image: "/images/user/garden2.jpg"
   link: "/nse/"
-  description: Gardening, the Castle Apprentice Program (CAP) and Monthly School-Wide
-    Assemblies are just a few of the programs that make North Shore unique and well
-    rounded.
+  description: Gardening, Healthy School Initiative, and Magnificent Mondays are just
+    a few of the programs that make North Shore unique and well rounded.
 - title: Exceptional Student Education (ESE)
   image: "/images/user/healthylunch.jpg"
   link: "/nse/"
