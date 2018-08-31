@@ -15,7 +15,8 @@ list_items:
 - title: Fall Festival
   image: "/images/IMG_0623-2.jpg"
   description: A family-friendly PTA sponsored event with food, games, and a pumpkin
-    auction!  Come and join in the fun celebrating fall and Halloween to come!
+    auction.  Come and join in the fun celebrating fall and Halloween to come and
+    get a feel for the North Shore Elementary family!
 - title: Kindergarten Round-Up
   image: "/images/K Round Up.jpg"
   description: This is yet another opportunity to experience our school, get a taste
