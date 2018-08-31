@@ -18,10 +18,11 @@ list_items:
   description: FNSE supports the school to identify and fund projects which encourage
     the education and facilities to simultaneously meet student needs and inspire
     a love of learning.
-- title: Outreach
+- title: Family Outreach
   class: icon-megaphone-1
-  description: Engage with local businesses, elected officials, and individuals regarding
-    oppurtunities.
+  description: FNSE works hard to engage pre-school age families in North Shore Elementary.  We
+    also aim to connect local businesses, elected officials, and interested individuals
+    to ways he/she/they can support North Shore.
 button: ''
 
 ---
