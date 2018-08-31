@@ -16,10 +16,11 @@ list_items:
   link: "/nse/"
   description: Gardening, Morning Meditation and Monthly School-Wide Assembly are
     just a few of the programs that make North Shore unique and well rounded.
-- title: Exceptional Students
+- title: Exceptional Student Education (ESE)
   image: "/images/user/healthylunch.jpg"
   link: "/nse/"
-  description: Learn how both ASD and Gifted programming are applied to enhance a
-    students education at North Shore Elementary.
+  description: Learn about the robust ESE programming at North Shore as both ASD and
+    Gifted programming are experienced daily to challenge all students and meet all
+    educational needs at North Shore Elementary.
 
 ---
