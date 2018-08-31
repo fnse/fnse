@@ -9,8 +9,8 @@ list_items:
 - title: School Grade
   image: "/images/user/afterschool.jpg"
   link: "/why/"
-  description: North Shore Elementary has a "B" school grade. Find out what
-    this means, and how the school can continue improving.
+  description: North Shore Elementary has a "B" school grade. Find out what this means,
+    and how the school continues to improve learning for all students.
 - title: Unique Programs
   image: "/images/user/garden2.jpg"
   link: "/nse/"
