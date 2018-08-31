@@ -9,9 +9,9 @@ class_name: events
 list_items:
 - title: NSE Open House
   image: "/images/Open House NSE.jpg"
-  description: An opportunity to learn more about the experience of being a North
-    Shore Elementary Knight!  You will tour the campus, participate in Q & A with
-    teachers and administration & hear from current parents about their experience.
+  description: An opportunity to learn more about being a North Shore Elementary Knight!  You
+    will tour the campus, participate in Q & A with teachers and administration &
+    hear from current parents about their experience.
 - title: Fall Festival
   image: "/images/IMG_0623-2.jpg"
   description: A family-friendly PTA sponsored event with food, games, and a pumpkin
