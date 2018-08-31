@@ -8,10 +8,11 @@ module_type: center_list
 class_name: goals
 color: blue_list
 list_items:
-- title: School Programming
+- title: Supporting School Programming
   class: icon-study-owl
-  description: Develop relationships with faculty to assess the curriculum, school
-    day, and teachers needs.
+  description: FNSE has developed relationships with faculty and staff and serves
+    as a partner to assess the curriculum, school day, and teachers needs, providing
+    support in each of these areas when possible.
 - title: Fundraising
   class: icon-Piggy
   description: Identify and fund projects which encourage education and facilities
@@ -20,5 +21,6 @@ list_items:
   class: icon-megaphone-1
   description: Engage with local businesses, elected officials, and individuals regarding
     oppurtunities.
+button: ''
 
 ---
