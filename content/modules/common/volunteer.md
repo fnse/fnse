@@ -10,7 +10,7 @@ link: "/volunteer/"
 image: "/images/VolunteerLarge.jpg"
 caption: This is a caption
 list_items:
-- title: Lunch PAL
+- title: Lunch PAL Mentors
 - title: Front Office Assistance
 - title: Tutor
 - title: Recess Monitor
