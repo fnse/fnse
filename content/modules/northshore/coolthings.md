@@ -12,10 +12,12 @@ list_items:
     say or describe.
 - title: Gardening
   image: "/images/user/Garden.png"
-  description: A description about Gardening and any relevant information like who
-    it applies to.
+  description: A partnership with Edible Peace Patch allows for both educational and
+    cafeteria gardens on campus.  Both 3rd and 5th grades participate in a garden
+    curriculum once a year while other grade levels have access to outdoor learning
+    and our after school Garden Club.
 - title: Magnificent Mondays
-  image: "/images/user/healthylunch.jpg"
+  image: "/images/IMG_9715.jpg"
   description: 'Once a month parents and community members are invited to participate
     in a morning assembly to recognize our Citizens of the Month, Teacher and Staff
     Person of the Month, Community Partners, and classes with the highest monthly
