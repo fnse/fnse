@@ -1,6 +1,8 @@
 ---
 title: About North Shore
-description: North Shore Elementary is a charming neighborhood school in St. Petersburg, FL. Learn more about the forward progress being made by the school, and the current experiences offered.
+description: North Shore Elementary is a charming neighborhood school in St. Petersburg,
+  FL. Learn more about the forward progress being made by the school, and the current
+  educational experiences offered.
 type: page
 date: 2014-03-27 14:59:46 +0000
 url: "/nse"
@@ -12,6 +14,7 @@ hero_button_icon: icon-Arrow
 hero_link: "#GeneralInformation"
 image: "/images/School1.jpg"
 modules:
+- modules/northshore
 - modules/northshore/nsegeneralinfo.md
 - modules/northshore/pta.md
 - modules/northshore/afterschool.md
