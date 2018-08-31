@@ -10,7 +10,7 @@ button: CONTACT US
 button_icon: mail
 link: "/contact"
 list_items:
-- title: Network
+- title: Connect Us To Your Network
   class: icon-messages-bubble-share
   description: Attend meetings, join a committee, introduce us to an influential person
     or group of peope, and/or otherwise help guide FNSE.
