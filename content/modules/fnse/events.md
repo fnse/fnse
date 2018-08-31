@@ -14,12 +14,12 @@ list_items:
     to tour the campus, participate in Q & A with teachers and administration as well
     as hear from current parents about their experience at North Shore Elementary.
 - title: Fall Festival
-  image: "/images/IMG_0623.jpg"
+  image: "/images/IMG_0623-2.jpg"
   description: A family-friendly PTA sponsored event with food, games, and a pumpkin
     auction!  Come and join in the fun celebrating fall and Halloween to come!
-- title: Event 3
-  image: "/images/uneditable/placeholder.jpg"
-  description: This is the secription of an event that takes place. No link to an
-    external page unless necessary.
+- title: Kindergarten Round-Up
+  image: "/images/K Round Up.jpg"
+  description: This is yet another opportunity to experience our school, get a taste
+    of our campus and meet teachers and administration at North Shore
 
 ---
