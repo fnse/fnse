@@ -20,9 +20,9 @@ list_items:
     a love of learning.
 - title: Family Outreach
   class: icon-megaphone-1
-  description: FNSE works hard to engage pre-school age families in North Shore Elementary.  We
-    also aim to connect local businesses, elected officials, and interested individuals
-    to ways he/she/they can support North Shore.
+  description: FNSE works hard to engage pre-school age families in the North Shore
+    Elementary experience, and aim to connect local businesses, elected officials,
+    and interested individuals to ways he/she/they can support the school as a whole.
 button: ''
 
 ---
