@@ -9,11 +9,12 @@ There are many options for middle school that are available to Pinellas County P
 * International Baccalaureate (IB Program)
 * An award-winning Center for International Studies in the Arts and Multimedia Journalism Magnet Program.
 
-Additionally, there are a variety of district application programs available for middle school families such as: 
+Additionally, there are a variety of district application programs available for middle school families such as:
 
 * Thurgood Marshall Fundamental Middle School (has a gifted program component)
 * Sanderlin (currently a K-8 school with and International Studies focus)
 * Madiera Beach Fundamental Middle School
+* Bay Point Middle School
 
 The district is also currently in discussion with the YMCA to potentially build a new middle school at the former Riviera Middle School site that could be open as early as 2021.
 
