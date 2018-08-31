@@ -10,13 +10,12 @@ link: "/volunteer/"
 image: "/images/VolunteerLarge.jpg"
 caption: This is a caption
 list_items:
-- title: Lunch PAL Mentors
+- title: Join a FNSE Committee
+- title: Donate
 - title: Front Office Support
 - title: One-on-One Tutoring
 - title: Lunchroom Support
-- title: Join a Committee
-- title: Attend Meetings
-- title: Fundraise
+- title: Lunch PAL Mentors
 - title: Connect Us
 - title: Host an Event
 subtitle: ''
