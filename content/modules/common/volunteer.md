@@ -11,8 +11,8 @@ image: "/images/VolunteerLarge.jpg"
 caption: This is a caption
 list_items:
 - title: Lunch PAL Mentors
-- title: Front Office Assistance
-- title: Tutor
+- title: Front Office Support
+- title: One-on-One Tutoring
 - title: Recess Monitor
 - title: Join a Committee
 - title: Attend Meetings
