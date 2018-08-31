@@ -14,8 +14,9 @@ list_items:
 - title: Unique Enrichment Programs
   image: "/images/user/garden2.jpg"
   link: "/nse/"
-  description: Gardening, Morning Meditation and Monthly School-Wide Assembly are
-    just a few of the programs that make North Shore unique and well rounded.
+  description: Gardening, the Castle Apprentice Program (CAP) and Monthly School-Wide
+    Assemblies are just a few of the programs that make North Shore unique and well
+    rounded.
 - title: Exceptional Student Education (ESE)
   image: "/images/user/healthylunch.jpg"
   link: "/nse/"
