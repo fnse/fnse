@@ -14,8 +14,12 @@ list_items:
   image: "/images/user/Garden.png"
   description: A description about Gardening and any relevant information like who
     it applies to.
-- title: Morning Assembly
+- title: Magnificent Mondays
   image: "/images/user/healthylunch.jpg"
-  description: What is morning assembly, when does it happen and what does it accomplish?
+  description: 'Once a month parents and community members are invited to participate
+    in a morning assembly to build community and promote school spirit recognizing
+    our Citizens of the Month, Teacher and Staff Person of the Month, Community Partners,
+    and classes with the highest monthly attendance finishing off with our school
+    chant.  '
 
 ---
