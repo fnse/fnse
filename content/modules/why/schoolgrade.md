@@ -24,4 +24,4 @@ button: ''
 ---
 <img src="/images/uneditable/SchoolGrade.png" style="margin: 75px auto; display: block; border-radius: 4px; max-width:100%;"/>
 
-At the same time, the school grade is not all that prospective parents should care about. Gearing specifically towards tests does not ensure a well rounded education for our kids. [Homework policies](#), [teacher engagement](#), [recess time](#), after-school enrichments, and many other factors go into the North Shore experience. We strongly encourage all families who are considering North Shore elementary to [schedule a tour](#) and see first hand how NSE meets the needs of all students.  
+The school grade cannot be all that prospective parents should care about. It is our belief that gearing specifically towards tests does not ensure a well rounded education for our kids. [Homework policies](#), [teacher engagement](#), [recess time](#), after-school enrichments, and many other factors go into the North Shore experience. We strongly encourage all families who are considering North Shore elementary to [schedule a tour](#) and see first hand how NSE meets the needs of all students.
