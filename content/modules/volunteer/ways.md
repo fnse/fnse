@@ -16,8 +16,8 @@ list_items:
     or group of peope, and/or otherwise help guide FNSE.
 - title: Fundraise
   class: icon-Piggy
-  description: Offer us a venue, lead an event, or lend us your time with one of our
-    existing fundraisers.
+  description: Offer us a venue, lead an event, or lend us your time or treasure with
+    one of our existing friend/fundraisers.
 - title: Services
   class: icon-hammer-wench
   description: Painters, contractors, lawn care, print services, design, IT. You name
