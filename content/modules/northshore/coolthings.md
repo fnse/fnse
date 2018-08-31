@@ -17,9 +17,8 @@ list_items:
 - title: Magnificent Mondays
   image: "/images/user/healthylunch.jpg"
   description: 'Once a month parents and community members are invited to participate
-    in a morning assembly to build community and promote school spirit recognizing
-    our Citizens of the Month, Teacher and Staff Person of the Month, Community Partners,
-    and classes with the highest monthly attendance finishing off with our school
-    chant.  '
+    in a morning assembly to recognize our Citizens of the Month, Teacher and Staff
+    Person of the Month, Community Partners, and classes with the highest monthly
+    attendance always ending with our school chant.  '
 
 ---
