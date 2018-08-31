@@ -13,7 +13,7 @@ list_items:
 - title: Lunch PAL Mentors
 - title: Front Office Support
 - title: One-on-One Tutoring
-- title: Recess Monitor
+- title: Lunchroom Support
 - title: Join a Committee
 - title: Attend Meetings
 - title: Fundraise
