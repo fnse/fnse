@@ -4,7 +4,7 @@ id: modules/why/community.md
 type: module
 module_type: text_right
 class_name: nextdoor grey_module padded-module
-image: "/images/kindergarden.png"
+image: "/images/IMG_1543.JPG"
 caption: This is a caption
 subtitle: ''
 button: ''
