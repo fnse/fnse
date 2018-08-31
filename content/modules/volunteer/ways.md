@@ -18,10 +18,10 @@ list_items:
   class: icon-Piggy
   description: Offer us a venue, lead an event, or lend us your time or treasure with
     one of our existing friend/fundraisers.
-- title: Services
+- title: Offer Us Your Services
   class: icon-hammer-wench
   description: Painters, contractors, lawn care, print services, design, IT. You name
-    it, we’re would love to hear from you.
+    it, we’re would love to hear from you and what you think you can do for FNSE!
 
 ---
 If you can contribute to one of the intiatives above, or have ideas on how to help, please reach out to us.
