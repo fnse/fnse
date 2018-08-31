@@ -6,10 +6,12 @@ type: module
 module_type: carousel
 class_name: highlight
 list_items:
-- title: Meditation
+- title: Healthy Schools Initiative
   image: "/images/user/afterschool.jpg"
-  description: When and where meditation takes place and anything else we want to
-    say or describe.
+  description: North Shore is focused on continuing to promote healthy behaviors for
+    students and staff.  As part of this initiative there is Walking Club (one morning
+    a week), teacher participation in the Destress Monday research project, Recycling,
+    and Mindful Minute (school wide collective deep breath to start off the day).
 - title: Gardening
   image: "/images/user/Garden.png"
   description: A partnership with Edible Peace Patch allows for both educational and
@@ -17,7 +19,7 @@ list_items:
     curriculum once a year while other grade levels have access to outdoor learning
     and our after school Garden Club.
 - title: Magnificent Mondays
-  image: "/images/IMG_9715.jpg"
+  image: "/images/IMG_9715-1.jpg"
   description: 'Once a month parents and community members are invited to participate
     in a morning assembly to recognize our Citizens of the Month, Teacher and Staff
     Person of the Month, Community Partners, and classes with the highest monthly
