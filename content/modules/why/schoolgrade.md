@@ -9,9 +9,9 @@ description: Florida School Accountability Reports currently <a href="http://www
   one unit (or class) per grade made up of students that qualify for ASD services.  These
   students are all tested the same as the rest of the student body.  Being a small
   school and having 12% of our student population qualifying as ASD students can and
-  does impact our school grade.  Furthermore, clear correlation between poverty and
-  lower school grades throughout Pinellas County School district illuminates that
-  a measure of educational excellence cannot be solely determined by this current
+  does impact our school grade.  Furthermore, the clear correlation between poverty
+  and lower school grades throughout the Pinellas County School district illuminates
+  that a measure of educational excellence cannot be solely determined by this current
   matrix.
 id: modules/why/schoolgrade.md
 type: module
