@@ -7,12 +7,17 @@ class_name: quote no-margin
 image: "/images/KidsBanner.jpg"
 data_source: testimonial
 list_items:
-- name: Jessica Jones
-  role: Mom to 2nd Grader
-  body: I'm constantly amazed by the teachers and staff at North Shore elementary.
-    Their commitment, responsiveness, and desire to educate make me proud to send
-    my kids there.
-  image: "/images/user/headshot.jpg"
+- name: Jean Marie and Heather Leon
+  role: Parents to a 3rd grader
+  body: We have been a North Shore Knights family for over 16 years, and have watched
+    our neighborhood school grow and change. Teachers, administrators, and staff work
+    closely with each other to make the school a supportive learning community. It
+    is exciting to see our son come home eager to do his homework and participate
+    in the school and PTA events. We are proud of the strides NSE has made toward
+    inclusiveness and greater comprehensive educational opportunities. We are excited
+    about North Shore’s continued service and success, and are proud to be part of
+    it
+  image: "/images/Leon Family.png"
 - name: Jon Kile
   role: Dad to Kindergartener and 3rd Grader
   body: "\"Our son James entered North Shore in first grade and we couldn't be more
