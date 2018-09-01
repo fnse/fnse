@@ -19,7 +19,7 @@ list_items:
     curriculum once a year while other grade levels have access to outdoor learning
     and our after school Garden Club.
 - title: Magnificent Mondays
-  image: "/images/IMG_9715-1.jpg"
+  image: "/images/user/IMG_9715-1.jpg"
   description: 'Once a month parents and community members are invited to participate
     in a morning assembly to recognize our Citizens of the Month, Teacher and Staff
     Person of the Month, Community Partners, and classes with the highest monthly

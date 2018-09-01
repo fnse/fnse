@@ -13,7 +13,7 @@ list_items:
     will tour the campus, participate in Q & A with teachers and administration &
     hear from current parents about their experience.
 - title: Fall Festival
-  image: "/images/user/IMG_0623-2.jpg"
+  image: "/images/user/IMG_0623.jpg"
   description: A family-friendly PTA sponsored event with food, games, and a pumpkin
     auction.  Come and join in the fun celebrating fall and Halloween to come and
     get a feel for the North Shore Elementary family!
