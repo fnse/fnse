@@ -4,7 +4,7 @@ id: modules/northshore/castle.md
 type: module
 module_type: text_left
 class_name: castle
-image: "/images/placeholder.jpg"
+image: "/images/user/CAP Showcase.jpg"
 caption: This is a caption
 list_items:
 - title: World Travelers
