@@ -4,7 +4,7 @@ id: modules/why/faculty.md
 type: module
 module_type: text_left
 class_name: faculty
-image: "/images/dawson.jpg"
+image: "/images/user/NSE Dragon Admin.jpg"
 caption: This is a caption
 subtitle: ''
 text_left: ''
