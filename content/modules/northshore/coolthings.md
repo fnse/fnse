@@ -7,7 +7,7 @@ module_type: carousel
 class_name: highlight
 list_items:
 - title: Healthy Schools Initiative
-  image: "/images/user/afterschool.jpg"
+  image: ''
   description: North Shore is focused on continuing to promote healthy behaviors for
     students and staff.  As part of this initiative there is Walking Club (one morning
     a week), teacher participation in the Destress Monday research project, Recycling,
