@@ -15,18 +15,18 @@ gulp.task("img", () =>
       "*": [{
         width: 450,
         rename: {suffix: "@450"},
-        skipOnEnlargement: true,
-        withoutEnlargement: true
+        skipOnEnlargement: false,
+        withoutEnlargement: false
       }, {
         width: 768,
         rename: {suffix: "@768"},
-        skipOnEnlargement: true,
-        withoutEnlargement: true
+        skipOnEnlargement: false,
+        withoutEnlargement: false
       }, {
         width: 1080,
         rename: {suffix: "@1080"},
-        skipOnEnlargement: true,
-        withoutEnlargement: true
+        skipOnEnlargement: false,
+        withoutEnlargement: false
       }, {
         width: 1440,
         rename: {suffix: "@1440"},
