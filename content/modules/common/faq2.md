@@ -7,6 +7,7 @@ image: "/images/user/class.jpg"
 alignment: right
 button: READ THE FAQ
 button_icon: icon-question-circle
-link: /faq/
+link: "/faq/"
+
 ---
-<p><strong>How are donations used?</strong> Mooly and Marci will have ot address this one. I'm not sure what the exact answer is. Have additional questions? Head on over to our FAQ to learn more about the school, performance, teachers, events, tours and Friends of North Shore.</p>
+<p><strong>How are donations used?</strong> Donations to FNE all do directly back to the school.  Currently we are still funding out 'Boost Program' as well as providing support for professional development for teachers as well as field trip support. Have additional questions? Head on over to our FAQ to learn more about the school, performance, teachers, events, tours and Friends of North Shore.</p>
