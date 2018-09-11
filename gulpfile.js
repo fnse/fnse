@@ -30,13 +30,13 @@ gulp.task("img", () =>
       }, {
         width: 1440,
         rename: {suffix: "@1440"},
-        skipOnEnlargement: true,
-        withoutEnlargement: true
+        skipOnEnlargement: false,
+        withoutEnlargement: false
       }, {
         width: 1920,
         rename: {suffix: "@1920"},
-        skipOnEnlargement: true,
-        withoutEnlargement: true
+        skipOnEnlargement: false,
+        withoutEnlargement: false
       }],
     }, {
       silent: false,      // Don't spam the console
