@@ -171,11 +171,15 @@ figcaption {
     font-style: italic;
     @include altProseStack();
     color: $darkGrey;
-    font-size: 80%;
+    font-size: 60%;
     margin-top: 10px;
     display: none;
     @include breakpoint(condensed-screen) {
         display: block;
+        font-size: 60%;
+    }
+    @include breakpoint(normal-screen) {
+        font-size: 80%;
     }
 }
 

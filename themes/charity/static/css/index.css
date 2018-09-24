@@ -718,12 +718,16 @@ figcaption {
   font-weight: 300;
   font-display: swap;
   color: #3A3A3A;
-  font-size: 80%;
+  font-size: 60%;
   margin-top: 10px;
   display: none; }
   @media (min-width: 35em) {
     figcaption {
-      display: block; } }
+      display: block;
+      font-size: 60%; } }
+  @media (min-width: 1080px) {
+    figcaption {
+      font-size: 80%; } }
 
 picture {
   max-width: 100%; }
@@ -1671,6 +1675,12 @@ div.menu-link {
 .text_left figcaption {
   float: right; }
 
+.text_left p strong {
+  color: #3A3A3A; }
+
+.text_left figcaption {
+  text-align: right; }
+
 .text_right p {
   text-align: left; }
 
@@ -1709,7 +1719,8 @@ sup {
     height: 500px !important; } }
 
 .text_right figcaption {
-  float: left; }
+  float: left;
+  text-align: left; }
 
 .quote {
   display: -webkit-box;
@@ -2014,6 +2025,7 @@ sup {
 
 .shield {
   height: 140px;
+  max-height: 140px;
   background-repeat: no-repeat;
   background-position: center center;
   background-size: contain;
@@ -2463,6 +2475,9 @@ sup {
 
 .hide {
   display: none; }
+
+.faq strong {
+  color: inherit !important; }
 
 .glide {
   position: relative;

@@ -8,7 +8,7 @@ button: EXPLORE
 button_icon: icon-historical-building-castle-1
 link: "/why/"
 image: "/images/classrom.jpg"
-caption: Creativity in the classroom can be expressed in many ways, including how you sit!
+caption: Creativity in the classroom!
 subtitle: ''
 text_left: ''
 list_items: []

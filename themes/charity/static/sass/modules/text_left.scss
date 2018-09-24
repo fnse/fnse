@@ -50,3 +50,12 @@
 .text_left figcaption {
 	float: right;
 }
+
+.text_left p strong {
+	color: $darkGrey;
+	///@include boldFontStack();
+}
+
+.text_left figcaption {
+    text-align: right;
+}

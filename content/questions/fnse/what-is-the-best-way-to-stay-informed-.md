@@ -4,4 +4,4 @@ tags = ["fnsefaq"]
 title = "What is the best way to stay informed?"
 
 +++
-Follow us on Facebook and attend our monthly meetings.
+Follow us on [Facebook](https://www.facebook.com/groups/509722892532049/) and attend our monthly meetings.

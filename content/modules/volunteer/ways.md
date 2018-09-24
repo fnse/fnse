@@ -13,10 +13,10 @@ list_items:
 - title: Connect Us To Your Network
   class: icon-messages-bubble-share
   description: Attend meetings, join a committee, introduce us to an influential person
-    or group of peope, and/or otherwise help guide FNSE.
+    or group of people, and/or otherwise help guide FNSE's direction.
 - title: Fundraise
   class: icon-Piggy
-  description: Offer us a venue, lead or host an event, or lend us your time or treasure
+  description: Help us reach our goals by offering us a venue, lead or host an event, or lend us your time or treasure
     with one of our existing friend/fundraisers.
 - title: Offer Us Your Services
   class: icon-hammer-wench
