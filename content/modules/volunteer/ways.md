@@ -8,7 +8,7 @@ color: blue_list
 class_name: ways
 button: CONTACT US
 button_icon: mail
-link: "/contact"
+link: "#contact"
 list_items:
 - title: Connect Us To Your Network
   class: icon-messages-bubble-share

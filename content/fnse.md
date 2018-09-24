@@ -6,7 +6,7 @@ date: 2014-03-27 14:59:46 +0000
 url: "/about"
 hero_class: placeholder
 hero_title: Friends of North Shore Elementary
-hero_subtitle: We're a local non proft assisting the school however we can.
+hero_subtitle: We're a local non profit assisting the school however we can.
 hero_button_text: READ MORE
 hero_button_icon: icon-Arrow
 hero_link: "#HowWeStarted"

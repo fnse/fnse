@@ -8,7 +8,7 @@ module_type: center_list
 class_name: goals
 color: blue_list
 list_items:
-- title: Supporting School Programming
+- title: School Programming
   class: icon-study-owl
   description: FNSE has developed relationships with faculty and staff and serves
     as a partner to assess the curriculum, school day, and teachers needs, providing
