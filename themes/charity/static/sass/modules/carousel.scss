@@ -120,5 +120,25 @@
 }
 
 
+.listDate {
+	border-top: 1px solid LightGray;
+	margin: 10px 25px 20px 25px;
+	padding-top: 15px;
+	@include breakpoint(tablet-screen) {
+		margin: 10px 40px 0px 40px;
+	}
+	text-align: left;
+}
+
+.listDate span {
+	@include proseFontStack();
+	font-weight: 300;
+	font-size: 85%;
+	float: right;
+}
+
+.listDate img {
+	color: LightGray;
+}
 
 

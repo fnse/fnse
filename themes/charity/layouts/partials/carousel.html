@@ -18,6 +18,12 @@
 						</div>
 						<h4>{{ $value.title }}</h4>
 						<p class="no-animation">{{ $value.description }}</p>
+							{{ if isset $value "event_date" }}
+								<div class="listDate">
+									<img src="/images/icons/calendar-3.svg" width="27" />
+									<span>{{ $value.event_date }} </span>
+								</div>
+							{{ end }}
 						{{ if isset $value "link" }}
 							<a href="{{ $value.link }}" class="button blue icon-Arrow triggerMe">MORE</a>
 						{{ end }}

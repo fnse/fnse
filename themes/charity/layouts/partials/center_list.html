@@ -17,6 +17,12 @@
 								<strong>{{ $value.title }}</strong>
 								<span>{{ $value.description }}</span>
 							</div>
+							{{ if isset $value "event_date" }}
+								<div class="listDate">
+									<img src="" width="50" />
+									<span>{{ $value.event_date }} </span>
+								</div>
+							{{ end }}
 							{{ if isset $value "link" }}
 							<div class="shieldCTA">
 								<a href="{{ $value.link }}" class="button blue icon-Arrow triggerMe">MORE</a>
