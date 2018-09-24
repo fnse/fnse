@@ -9,4 +9,4 @@ The 3 upcoming events that we're focused on are:
 - Open House Oct. 24 6-7:30 (6-6:30 school tours)
 - Kindergarten Round Up (January)
 
-]Read more about the event details](/about/#Events).
+[Read more about the event details](/about/#Events).

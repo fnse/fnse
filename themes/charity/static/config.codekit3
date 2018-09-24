@@ -3745,8 +3745,8 @@
 		"oA": 0,
 		"oAP": "/images/user/IMG_9715-1.jpg",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"q": 87
 		},
 	"/images/user/IMG_9715.jpg": {
@@ -3987,8 +3987,8 @@
 		"oA": 0,
 		"oAP": "/images/user/walking.jpg",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"q": 87
 		},
 	"/images/user/wall.jpg": {
