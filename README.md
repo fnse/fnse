@@ -186,8 +186,6 @@ Most of the issues are related to the carousel being off screen and having JS th
 
 The [HTML Validation of the site](https://validator.w3.org/nu/?doc=http%3A%2F%2Ffnse.netlify.com%2F) has 10 errors at the time of this writing. 5 are due to lazy loaded images not having a `src` attribute, and the other 5 are images that need alt tags, which has to be built into the CMS. Overall, the markup is acceptible.
 
-TODO: Finally, this launch checklist was used.
-
 ## Compatibility, Support and Known Issues
 
 **Noscript**: If users have JavaScript disabled, the following still work:
