@@ -5,7 +5,7 @@ type: module
 module_type: text_left
 class_name: volunteerinfo
 image: "/images/students.jpg"
-caption: This is a caption
+caption: Student assembly.
 subtitle: ''
 text_left: ''
 button: ''

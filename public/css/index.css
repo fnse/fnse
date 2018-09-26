@@ -1941,6 +1941,25 @@ sup {
     .carousel .glide__bullets {
       display: none; } }
 
+.listDate {
+  border-top: 1px solid LightGray;
+  margin: 10px 25px 20px 25px;
+  padding-top: 15px;
+  text-align: left; }
+  @media (min-width: 50em) {
+    .listDate {
+      margin: 10px 40px 0px 40px; } }
+
+.listDate span {
+  font-family: 'Open Sans', sans-serif;
+  font-display: swap;
+  font-weight: 300;
+  font-size: 85%;
+  float: right; }
+
+.listDate img {
+  color: LightGray; }
+
 .center_list {
   text-align: center;
   overflow: hidden;

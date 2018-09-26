@@ -224,6 +224,16 @@
 		"oAP": "/fonts/PeaceSans.woff2",
 		"oF": 0
 		},
+	"/images/icons/calendar-3.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/images/icons/calendar-3.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
 	"/images/icons/icon_castle.png": {
 		"ft": 32768,
 		"iS": 514,
@@ -3735,8 +3745,8 @@
 		"oA": 0,
 		"oAP": "/images/user/IMG_9715-1.jpg",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"q": 87
 		},
 	"/images/user/IMG_9715.jpg": {
@@ -3977,8 +3987,8 @@
 		"oA": 0,
 		"oAP": "/images/user/walking.jpg",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"q": 87
 		},
 	"/images/user/wall.jpg": {

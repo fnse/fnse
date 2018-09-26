@@ -8,7 +8,7 @@ button: LEND A HAND
 button_icon: icon-Shield
 link: "/volunteer/"
 image: "/images/VolunteerLarge.jpg"
-caption: This is a caption
+caption: A community event.
 list_items:
 - title: Join a FNSE Committee
 - title: Connect Us to Your Network
