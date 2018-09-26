@@ -5,7 +5,7 @@ type: module
 module_type: text_right
 class_name: mission grey_module padded-module
 image: "/images/dawson.jpg"
-caption: Working with the principle and staff.
+caption: Working with the principal and staff.
 subtitle: ''
 button: ''
 button_icon: ''

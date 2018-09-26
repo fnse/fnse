@@ -18,7 +18,7 @@ list_items:
     cafeteria gardens on campus.  Both 3rd and 5th grades participate in a garden
     curriculum once a year while other grade levels have access to outdoor learning
     and our after school Garden Club.
-- title: Magnificent Mondays
+- title: Majestic Mondays
   image: "/images/user/IMG_9715-1.jpg"
   description: 'Parents and community members are invited to participate
     in a monthly morning assembly to recognize our Citizens of the Month, Teacher and Staff

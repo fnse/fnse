@@ -9,7 +9,7 @@ class_name: "pta faqlist"
 list_items:
 - title: FNSE
   class: icon-fireworks-people-watch
-  description: Have questions about our organization, donations, meetings, or other conerns?
+  description: Have questions about our organization, donations, meetings, or other concerns?
   link: "#QuestionsAboutFNSE"
 - title: North Shore Elementary
   class: icon-study-owl

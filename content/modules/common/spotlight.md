@@ -14,7 +14,7 @@ list_items:
 - title: Unique Enrichment Programs
   image: "/images/user/garden2.jpg"
   link: "/nse/#Highlights"
-  description: Gardening, Healthy School Initiative, and Magnificent Mondays are just
+  description: Gardening, Healthy School Initiative, and Majestic Mondays are just
     a few of the programs that make North Shore unique and well rounded.
 - title: Exceptional Student Education
   image: "/images/user/healthylunch.jpg"
