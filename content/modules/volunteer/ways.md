@@ -21,7 +21,7 @@ list_items:
 - title: Offer Us Your Services
   class: icon-hammer-wench
   description: Painters, contractors, lawn care, print services, design, IT. You name
-    it, we’re would love to hear from you and what you think you can do for FNSE!
+    it, we would love to hear from you and what you think you can do for FNSE!
 
 ---
 If you can contribute to one of the intiatives above, or have ideas on how to help, please reach out to us.
