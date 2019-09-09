@@ -1,7 +1,6 @@
 ---
 label: Page Template
 hide_body: false
-is_partial: false
 fields:
 - name: title
   label: Title
@@ -55,9 +54,9 @@ fields:
       type: pages
       section: modules
 pages:
+- content/nse.md
+- content/volunteer.md
+- content/why.md
 - content/fnse.md
 - content/faq.md
-- content/nse.md
-- content/why.md
 - content/_index.md
-- content/volunteer.md
