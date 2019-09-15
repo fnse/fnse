@@ -10,4 +10,4 @@ button_icon: icon-question-circle
 link: "/faq/"
 
 ---
-<p><strong>How are donations used?</strong> Donations to FNSE all do directly back to the school.  Currently we are still funding out 'Boost Program' as well as providing support for professional development for teachers as well as field trip support. Have additional questions? Head on over to our FAQ to learn more about the school, performance, teachers, events, tours and Friends of North Shore.</p>
+<p><strong>How are donations used?</strong> Donations to FNE all do directly back to the school.  Currently we are still funding out 'Boost Program' as well as providing support for professional development for teachers as well as field trip support. Have additional questions? Head on over to our FAQ to learn more about the school, performance, teachers, events, tours and Friends of North Shore.</p>

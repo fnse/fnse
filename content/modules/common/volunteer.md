@@ -10,12 +10,12 @@ link: "/volunteer/"
 image: "/images/VolunteerLarge.jpg"
 caption: This is a caption
 list_items:
-- title: Join a Committee
 - title: Front Office Support
 - title: One-on-One Tutoring
-- title: Lunchroom Support
-- title: Attend Meetings
 - title: Lunch PAL Mentors
+- title: Lunchroom Support
+- title: Join a Committee
+- title: Attend Meetings
 - title: Fundraise
 - title: Connect Us
 - title: Host an Event
