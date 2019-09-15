@@ -1,7 +1,7 @@
 ---
 title: The School Grade
 description: Florida School Accountability Reports currently <a href="http://www.fldoe.org/accountability/accountability-reporting/school-grades/">grades
-  North Shore Elementary as a <b>B</b></a>. While the staff should be proud of the
+  North Shore Elementary as a <b>C</b></a>. While the staff should be proud of the
   increase from last year, we want to caution parents that the school grade is not
   a sufficient enough measure alone (in other words, it doesn't tell the true story
   of a school and all of its accomplishments and challenges).  North Shore proudly
