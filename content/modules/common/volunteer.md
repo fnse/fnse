@@ -8,16 +8,17 @@ button: LEND A HAND
 button_icon: icon-Shield
 link: "/volunteer/"
 image: "/images/VolunteerLarge.jpg"
-caption: A community event.
+caption: This is a caption
 list_items:
-- title: Join a FNSE Committee
-- title: Connect Us to Your Network
-- title: Lunch PAL Mentors
-- title: Host an Event
-- title: Donate
+- title: Join a Committee
 - title: Front Office Support
 - title: One-on-One Tutoring
 - title: Lunchroom Support
+- title: Attend Meetings
+- title: Lunch PAL Mentors
+- title: Fundraise
+- title: Connect Us
+- title: Host an Event
 subtitle: ''
 text_left: ''
 
