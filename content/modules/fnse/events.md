@@ -8,21 +8,24 @@ module_type: carousel
 class_name: events
 list_items:
 - title: NSE Open House
-  image: "/images/user/Open House NSE.jpg"
+  image: "/images/Open House NSE.jpg"
   description: An opportunity to learn more about being a North Shore Elementary Knight!  You
     will tour the campus, participate in Q & A with teachers and administration &
     hear from current parents about their experience.
-  event_date: Oct. 24th 6:00pm - 7:30pm
+  class: ''
 - title: Fall Festival
   image: "/images/user/Fall Festival Pumpkins.jpg"
   description: A family-friendly PTA sponsored event with food, games, and a pumpkin
     auction.  Come and join in the fun celebrating fall and Halloween to come and
     get a feel for the North Shore Elementary family!
-  event_date: Oct. 20th 10:00am - 2:00pm
+  class: ''
 - title: Kindergarten Round-Up
-  image: "/images/user/K Round Up.jpg"
+  image: "/images/K Round Up.jpg"
   description: 'Another opportunity to experience North Shore Elementary, get a taste
     of our campus and meet teachers and administration.  Come out and see what North
-    Shore is all about!'
-  event_date: January
+    Shore is all about!
+
+'
+  class: ''
+
 ---
