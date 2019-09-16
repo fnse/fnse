@@ -4,8 +4,8 @@ description: The PTA’s vision is to foster a fully inclusive school community 
   students are thriving, teachers are supported, families are engaged, and all voices
   are welcome. Attending a PTA meeting, which take place every other month, is an
   easy way to get connected to the school community. Additionally, there are a number
-  of committee to get involved in including Fall Festival, Turkey Trot, Garden, and
-  Families Socials to name a few.
+  of committees to get involved in including Fall Festival, Turkey Trot, Garden, and
+  Family Socials to name a few.
 id: modules/northshore/pta.md
 type: module
 module_type: center_list
