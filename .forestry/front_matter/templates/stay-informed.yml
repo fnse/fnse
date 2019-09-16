@@ -40,5 +40,5 @@ fields:
   hidden: true
   default: ''
 pages:
-- content/modules/fnse/stayintouch.md
 - content/modules/common/faq3.md
+- content/modules/fnse/stayintouch.md
