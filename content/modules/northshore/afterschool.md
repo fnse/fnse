@@ -6,7 +6,7 @@ type: module
 module_type: text_right
 class_name: afterschool
 image: "/images/play.jpg"
-caption: This is a caption
+caption: ''
 list_items:
 - title: Chess Club
 - title: Dance
