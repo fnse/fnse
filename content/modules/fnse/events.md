@@ -20,7 +20,7 @@ list_items:
     get a feel for the North Shore Elementary family!
   class: ''
 - title: Kindergarten Round-Up
-  image: "/images/K Round Up.jpg"
+  image: "/images/user/IMG_9715.jpg"
   description: 'Another opportunity to experience North Shore Elementary, get a taste
     of our campus and meet teachers and administration.  Come out and see what North
     Shore is all about!
