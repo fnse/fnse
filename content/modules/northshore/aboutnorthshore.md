@@ -8,7 +8,7 @@ button: EXPLORE
 button_icon: icon-book-flip-page
 image: "/images/NorthShoreLeft.jpg"
 link: "/nse/"
-caption: This is a caption
+caption: ''
 subtitle: ''
 list_items: []
 
