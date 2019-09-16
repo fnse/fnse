@@ -12,7 +12,7 @@ list_items:
 - title: Dance
 - title: Drama
 - title: Band
-- title: Crazy 8’s
+- title: Crazy 8s
 - title: Challenge Island
 - title: Mad Science
 - title: STEM
