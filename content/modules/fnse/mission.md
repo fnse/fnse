@@ -5,7 +5,7 @@ type: module
 module_type: text_right
 class_name: mission grey_module padded-module
 image: "/images/dawson.jpg"
-caption: This is a caption
+caption: ''
 subtitle: ''
 button: ''
 button_icon: ''
