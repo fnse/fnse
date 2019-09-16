@@ -62,8 +62,8 @@ fields:
   config:
     labelField: title
 pages:
-- content/modules/why/community.md
 - content/modules/why/brightfuture.md
+- content/modules/why/community.md
 - content/modules/northshore/aboutnorthshore.md
 - content/modules/northshore/afterschool.md
 - content/modules/fnse/mission.md
