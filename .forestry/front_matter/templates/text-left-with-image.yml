@@ -71,12 +71,12 @@ fields:
   config:
     labelField: title
 pages:
+- content/modules/northshore/castle.md
 - content/modules/northshore/nsegeneralinfo.md
 - content/modules/fnse/fnsegeneralinfo.md
 - content/modules/fnse/aboutfriends.md
 - content/modules/why/faculty.md
 - content/modules/volunteer/nsevolunteer.md
-- content/modules/northshore/castle.md
 - content/modules/common/volunteer.md
 - content/modules/volunteer/volunteerinfo.md
 - content/modules/why/whynse.md
