@@ -26,7 +26,7 @@ list_items:
     the gifted and music programs were a major factor in choosing our neighborhood
     school. We look forward to watching James and his younger sister Anna grow at
     North Shore.”"
-  image: "/images/Parent North Shore.jpg"
+  image: "/images/user/Parent North Shore.jpg"
 
 ---
 This is a testimonial module.
