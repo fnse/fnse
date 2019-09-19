@@ -7,7 +7,7 @@ class_name: volunteer
 button: LEND A HAND
 button_icon: icon-Shield
 link: "/volunteer/"
-image: "/images/VolunteerLarge.jpg"
+image: "/images/user/VolunteerLarge.jpg"
 caption: A North Shore Elementary Event
 list_items:
 - title: Front Office Support
