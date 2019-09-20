@@ -5,7 +5,7 @@ type: module
 module_type: text_right
 class_name: nextdoor grey_module padded-module
 image: "/images/user/graduation.jpg"
-caption: Graduation
+caption: Students entertaining families at one of their musical performances.
 subtitle: ''
 button: ''
 button_icon: ''

@@ -6,7 +6,7 @@ type: module
 module_type: text_right
 class_name: afterschool
 image: "/images/play.jpg"
-caption: ''
+caption: North Shore students performing on stage.
 list_items:
 - title: Chess Club
 - title: Dance

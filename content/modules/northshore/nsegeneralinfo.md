@@ -4,8 +4,8 @@ id: modules/northshore/nsegeneralinfo.md
 type: module
 module_type: text_left
 class_name: nseinfo
-image: "/images/IMG_5571.jpg"
-caption: ''
+image: "/images/user/IMG_5571.jpg"
+caption: A knight statue located on the North Shore campus.
 subtitle: ''
 text_left: ''
 button: ''

@@ -5,7 +5,7 @@ type: module
 module_type: text_left
 class_name: castle
 image: "/images/user/CAP Showcase.jpg"
-caption: ''
+caption: Just a few of the Castle Apprenticeship projetcs.
 list_items:
 - title: World Travelers
 - title: Puppeteers Club
