@@ -47,3 +47,18 @@
         clear: both;
     }
 }
+
+@mixin underlineLink($color) {
+    background-color: $color;
+    content: '';
+    position: absolute;
+    height: 7px;
+    bottom: 6px; 
+    left: 0px;
+    width: 100%;
+    z-index: -1;
+     @include breakpoint(tablet-screen) {
+        height: 10px;
+        bottom: 13px; 
+    }
+}
