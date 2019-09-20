@@ -5,7 +5,7 @@ id: modules/northshore/afterschool.md
 type: module
 module_type: text_right
 class_name: afterschool
-image: "/images/play.jpg"
+image: "/images/user/play.jpg"
 caption: North Shore students performing on stage.
 list_items:
 - title: Chess Club

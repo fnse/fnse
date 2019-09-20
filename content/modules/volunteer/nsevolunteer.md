@@ -4,7 +4,7 @@ id: modules/volunteer/nsevolunteer.md
 type: module
 module_type: text_left
 class_name: nsevolunteer
-image: "/images/thankyou.jpg"
+image: "/images/user/thankyou.jpg"
 caption: North Shore Elementary students showing thier appreciation.
 text_left: ''
 subtitle: ''

@@ -4,7 +4,7 @@ id: modules/northshore/exceptional.md
 type: module
 module_type: text_right
 class_name: exceptional
-image: "/images/7thhour.jpg"
+image: "/images/user/7thhour.jpg"
 caption: North Shore Elementary students studying.
 color: grey_module padded-module
 subtitle: ''

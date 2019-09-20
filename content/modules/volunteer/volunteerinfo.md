@@ -4,7 +4,7 @@ id: modules/volunteer/volunteerinfo.md
 type: module
 module_type: text_left
 class_name: volunteerinfo
-image: "/images/students.jpg"
+image: "/images/user/students.jpg"
 caption: Student assembly.
 subtitle: ''
 text_left: ''

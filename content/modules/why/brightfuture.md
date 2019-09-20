@@ -4,7 +4,7 @@ id: modules/why/brightfuture.md
 type: module
 module_type: text_right
 class_name: nextdoor grey_module padded-module
-image: "/images/band.png"
+image: "/images/user/band.png"
 caption: School Assemblies bring the community together to share in student successes, faculty appreciation, and a good dose of fun!
 subtitle: ''
 button: ''

@@ -4,7 +4,7 @@ id: modules/fnse/mission.md
 type: module
 module_type: text_right
 class_name: mission grey_module padded-module
-image: "/images/dawson.jpg"
+image: "/images/user/dawson.jpg"
 caption: Working with the principal and staff.
 subtitle: ''
 button: ''

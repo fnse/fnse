@@ -6,7 +6,7 @@ module_type: text_right
 class_name: northshore
 button: EXPLORE
 button_icon: icon-book-flip-page
-image: "/images/NorthShoreLeft.jpg"
+image: "/images/user/NorthShoreLeft.jpg"
 link: "/nse/"
 caption: First established as Coffee Pot Elementary in 1927.
 subtitle: ''

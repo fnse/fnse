@@ -4,7 +4,7 @@ id: modules/why/localgem.md
 type: module
 module_type: text_left
 class_name: gem
-image: "/images/IMG_6091.jpg"
+image: "/images/user/IMG_6091.jpg"
 caption: Enjoy lunch outside in the quaint courtyard.
 subtitle: ''
 text_left: ''

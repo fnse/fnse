@@ -4,7 +4,7 @@ id: modules/fnse/fnsegeneralinfo.md
 type: module
 module_type: text_left
 class_name: fnseinfo
-image: "/images/fnsegroup.jpg"
+image: "/images/user/fnsegroup.jpg"
 caption: A monthly FNSE meeting.
 subtitle: ''
 text_left: ''

@@ -7,7 +7,7 @@ class_name: why
 button: EXPLORE
 button_icon: icon-historical-building-castle-1
 link: "/why/"
-image: "/images/classrom.jpg"
+image: "/images/user/classrom.jpg"
 caption: Creativity in the classroom!
 subtitle: ''
 text_left: ''
