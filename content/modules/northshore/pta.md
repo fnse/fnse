@@ -17,6 +17,4 @@ button: ''
 ---
 <iframe src="[https://player.vimeo.com/video/287523761](https://player.vimeo.com/video/287523761 "https://player.vimeo.com/video/287523761")" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-<p><a href="[https://vimeo.com/287523761](https://vimeo.com/287523761 "https://vimeo.com/287523761")">North Shore Elementary PTA, St Petersburg, Florida</a> from <a href="[https://vimeo.com/northshoreknightspta](https://vimeo.com/northshoreknightspta "https://vimeo.com/northshoreknightspta")">North Shore Knights PTA</a> on <a href="[https://vimeo.com](https://vimeo.com "https://vimeo.com")">Vimeo</a>.</p>
-
 In the coming year the [PTA](https://www.pcsb.org/Page/4476) is looking to help support teachers and encourage participation in continuing education programs, provide scholarships and free opportunities for after school enrichments, as well as provide on-going program support for school-wide events like the One School One Book, Knight Readers, grade level field trips, and Bully Prevention.
