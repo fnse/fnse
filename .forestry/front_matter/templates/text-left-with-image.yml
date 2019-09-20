@@ -71,6 +71,8 @@ fields:
   config:
     labelField: title
 pages:
+- content/modules/why/localgem.md
+- content/modules/why/whynse.md
 - content/modules/common/volunteer.md
 - content/modules/northshore/castle.md
 - content/modules/northshore/nsegeneralinfo.md
@@ -79,5 +81,3 @@ pages:
 - content/modules/why/faculty.md
 - content/modules/volunteer/nsevolunteer.md
 - content/modules/volunteer/volunteerinfo.md
-- content/modules/why/whynse.md
-- content/modules/why/localgem.md
