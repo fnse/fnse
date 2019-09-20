@@ -275,10 +275,10 @@ function initMapKit() {
 
 		/// Init map with unique key to my developer account
 		mapkit.init({
-		    authorizationCallback: function(done) {
-		        done('eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IlhKVDlBRDVOQVkifQ.eyJpc3MiOiJSSzNUOUJZU0o4IiwiaWF0IjoxNTMyMDIxMzgzLCJleHAiOjE1MzAwMDg0NTUxMDZ9.9WOGLjY3F3DnDC_CtQgF-X60-gzWxfNCaen0l14OLM51vGYleOvK2flS0h62PJxJLe97DL3A4Bb66C_QBPSGRA');
-		    }
-		});
+    		authorizationCallback: function(done) {
+        		done('eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IlFYNDczMjI4VlkifQ.eyJpc3MiOiJSSzNUOUJZU0o4IiwiaWF0IjoxNTY4OTgyNjk2LCJleHAiOjE5MjUyMDk4OTZ9.2Rgbrbdr1LsOkpFRbVJ972obw2omfZ1nDYacMY25fVV3d80IQUBWWH2jRyGrK6wUBtQcbEmKzoFmkLK4Rm89uQ');
+    		}
+}		);
 
 		/// Create map with region around school
 		var StPete = new mapkit.CoordinateRegion(
