@@ -8,6 +8,8 @@ class_name: afterschool
 image: "/images/user/play.jpg"
 caption: North Shore students performing on stage.
 list_items:
+- title: Book Club
+- title: Cooking
 - title: Coding
 - title: Art Club
 - title: Science Club
