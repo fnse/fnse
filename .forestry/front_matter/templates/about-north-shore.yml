@@ -63,8 +63,8 @@ fields:
     labelField: title
 pages:
 - content/modules/fnse/mission.md
+- content/modules/why/brightfuture.md
+- content/modules/northshore/aboutnorthshore.md
+- content/modules/northshore/afterschool.md
 - content/modules/northshore/exceptional.md
 - content/modules/why/community.md
-- content/modules/northshore/afterschool.md
-- content/modules/northshore/aboutnorthshore.md
-- content/modules/why/brightfuture.md
