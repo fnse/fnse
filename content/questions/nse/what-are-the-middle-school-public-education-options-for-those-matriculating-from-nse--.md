@@ -16,6 +16,6 @@ Additionally, there are a variety of district application programs available fo
 * Madeira Beach Fundamental Middle School
 * Bay Point Middle School
 
-The district is also currently in discussion with the YMCA to potentially build a new middle school at the former Riviera Middle School site that could be open as early as 2021.
+The district is currently in the process of building build a new middle school at the former Riviera Middle School site in partnership with the YMCA. Currently that school is slated to open in 2022 and will most likely be a combination of zoned students and magnet/lottery students.
 
 As with the selection of elementary schools, there are, and will be, numerous choices available for your child within Pinellas County Public School System that will build upon the wonderful educational foundation provided at North Shore Elementary.
