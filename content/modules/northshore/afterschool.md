@@ -8,19 +8,15 @@ class_name: afterschool
 image: "/images/user/play.jpg"
 caption: North Shore students performing on stage.
 list_items:
-- title: Chess Club
+- title: Science Club
 - title: Dance
 - title: Drama
 - title: Band
-- title: Crazy 8s
 - title: Challenge Island
 - title: Mad Science
-- title: STEM
-- title: TedEd
 - title: Girlfriends Club
 - title: Yoga
 - title: Soccer
-- title: Walking Club
 - title: Spanish
 button: ''
 button_icon: ''
