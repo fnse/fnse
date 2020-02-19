@@ -9,7 +9,7 @@ url: "/volunteer"
 hero_class: faqhero
 hero_title: Looking to Get Involved?
 hero_subtitle: We would love your help.
-image: "/images/user/garden2.jpg"
+image: "/images/user/44334762_10157519847510752_9097921690020610048_o.jpg"
 modules:
 - modules/volunteer/volunteerinfo.md
 - modules/volunteer/ways.md
