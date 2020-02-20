@@ -10,15 +10,13 @@ list_items:
 - name: Vicki and Lee Koenig
   role: Parents of a Kindergartener
   body: Upon touring North Shore Elementary, we felt an immediate sense of community.  This
-    feels like a small school with a staff who knows and cares about all of the kids.  After
-    touring and comparing it with the choice school options, we decided to skip the
-    lottery and register at NSE.  We have been so happy with that decision.  Our son
-    is in a class of 17 kids and his teacher has time for all of them.  The faculty
+    feels like a small school with a staff who knows and cares about all of the kids.  Our
+    son is in a class of 17 kids and his teacher has time for all of them.  The faculty
     truly cares and supports all students.  His fellow students are our neighbors
     - we see them out at the park and around town.  He is not commuting to a distant
     school.  We have been especially impressed by seeing teachers and other staff
     members from the car circle to after care address our son by name and ask how
-    he is doing as he transitions from preschool to elementary school.
+    he is doing as he transitioned from preschool to elementary school.
   image: "/images/user/85174787_10116904412134391_5239041742346387456_o.jpg"
 - name: Jon Kile
   role: Dad to Kindergartener and 3rd Grader
