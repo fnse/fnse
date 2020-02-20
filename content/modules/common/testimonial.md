@@ -16,7 +16,7 @@ list_items:
     - we see them out at the park and around town.  He is not commuting to a distant
     school.  We have been especially impressed by seeing teachers and other staff
     members from the car circle to after care address our son by name and ask how
-    he is doing as he transitioned from preschool to elementary school.
+    he is doing as he transitions from preschool to elementary school.
   image: "/images/user/85174787_10116904412134391_5239041742346387456_o.jpg"
 - name: Jon Kile
   role: Dad to Kindergartener and 3rd Grader
